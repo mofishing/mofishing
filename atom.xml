@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-17T05:20:20.937Z</updated>
+  <updated>2024-08-17T06:21:07.420Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>歌会规则</title>
+    <link href="http://example.com/posts/381d9437.html"/>
+    <id>http://example.com/posts/381d9437.html</id>
+    <published>2024-08-17T06:19:35.000Z</published>
+    <updated>2024-08-17T06:21:07.420Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="阿兹卡班歌友会点歌规则-v2-8-5"><a href="#阿兹卡班歌友会点歌规则-v2-8-5" class="headerlink" title="阿兹卡班歌友会点歌规则 v2.8.5"></a>阿兹卡班歌友会点歌规则 v2.8.5</h2><ol><li><p>点歌红包为拼手气红包，红包规格为<code>1元10个红包</code>或<code>2元15个红包</code>，可以参考具体情况自行酌定，点歌形式分为两种，一种为指定歌名（详见规则第<code>2-5</code>条），另一种为运气王自行决定歌名（详见规则第<code>6</code>条）。若<code>1min</code>之后没有出现运气王，则自动流掉.</p></li><li><p>红包封面固定为<code>点歌 + 歌名</code>，歌名需要用符号隔开，如<code>:</code>，<code>“”</code>，<code>《》</code></p><blockquote><p>示例：以点周杰伦的青花瓷为例，红包封面应为</p><p><code>点歌:青花瓷</code> 或者 <code>点歌 “青花瓷”</code>或者 <code>点歌 《青花瓷》</code></p></blockquote><p>注意，若所点歌曲存在多个歌手的不同版本，或者日语版、英语版，需要在歌名后备注版本</p><blockquote><p>示例：若点《起风了》日语版，则封面应为</p><p><code>点歌 《起风了（日语版）》</code></p></blockquote></li><li><p>由系统判定的运气王进行唱歌，运气王可以自行决定唱那部分，默认为高潮部分，但不得少于 <code>10s</code></p></li><li><p>若运气王不想唱这首歌，可以按照上述规则重新转包，但需要将<code>点歌</code>改为<code>转歌</code></p><blockquote><p>以周杰伦的青花瓷为例子，转歌的红包封面应为</p><p><code>转歌 《青花瓷》</code></p></blockquote></li><li><p>转歌的人可以在不改变原先的人的要求的情况下，自行添加规则</p></li><li><p>当不指定歌名时，封面固定为<code>运气王</code>，由运气王（系统判定）自行决定唱那首歌，默认唱歌曲高潮部分，但不得少于<code>10s</code>，且不得转歌</p></li><li><p>非排队或着插队发包，该包视为福利，所点之歌由发包人演唱</p></li><li><p><strong>最后，也是最为重要的一点是，一定要遵守上述规则，否则点歌或者转歌无效，该红包会被视为发给群友的福利</strong></p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;阿兹卡班歌友会点歌规则-v2-8-5&quot;&gt;&lt;a href=&quot;#阿兹卡班歌友会点歌规则-v2-8-5&quot; class=&quot;headerlink&quot; title=&quot;阿兹卡班歌友会点歌规则 v2.8.5&quot;&gt;&lt;/a&gt;阿兹卡班歌友会点歌规则 v2.8.5&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    <category term="青鸾社" scheme="http://example.com/categories/%E9%9D%92%E9%B8%BE%E7%A4%BE/"/>
+    
+    
+    <category term="青鸾" scheme="http://example.com/tags/%E9%9D%92%E9%B8%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>博客魔改（三）</title>
